@@ -1,2 +1,2 @@
 # floyd_warshall_openmp
-OpenMP implementation of Floyd Warshall algorithm
+Parallel implemenation of Floyd Warshall algorithm in OpenMP using C
